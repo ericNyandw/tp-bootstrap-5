@@ -1,4 +1,11 @@
-# tp-bootstrap-5
-# Projet de démonstration Bootstrap 5
-Ce projet constitue une mise en pratique des concepts abordés dans la formation "Apprendre et comprendre Bootstrap 5 par la pratique" (réalisée via le tutoriel de Coding City). Il a pour but d'illustrer l'efficacité de l'utilisation de Bootstrap pour réduire le temps de développement des interfaces utilisateur.
-Source des images : Les visuels intégrés dans ce projet sont issus de la plateforme Pixabay.com. Il est recommandé de consulter les conditions d'utilisation associées à ces images.
+# 🎨 Bootstrap 5 UI Showcase
+
+Démonstration de conception d'interfaces responsives utilisant **Bootstrap 5**. Ce projet illustre l'optimisation du temps de développement Frontend via l'utilisation de composants standards.
+
+## 🎯 Objectifs techniques
+- **Mise en page** : Maîtrise de la grille (Grid System) et du Flexbox.
+- **Composants** : Utilisation des Navbar, Cards et Modals personnalisés.
+- **Performance** : Intégration optimisée de ressources externes (Pixabay).
+
+## 🚀 Aperçu
+*Inspiré par la formation "Coding City", ce projet sert de base de référence pour le prototypage rapide d'interfaces utilisateur.*
